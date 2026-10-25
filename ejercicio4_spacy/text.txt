@@ -1,0 +1,3 @@
+Soy Miguel Cocera y actualmente estudio la especialización de Big Data en Linkia FP desde Barcelona.
+El año pasado terminé el ciclo de Desarrollo de Aplicaciones Multiplataforma (DAM) y estoy realizando ejercicios de Big Data.
+Vamos a testear a ver que tal funciona esto.
