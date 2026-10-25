@@ -1,0 +1,7 @@
+.DS_Store
+.venv/
+__pycache__/
+
+# copias que salen al ejecutar el scraping desde la raiz
+/books.csv
+/inserts.sql
